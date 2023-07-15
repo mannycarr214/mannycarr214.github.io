@@ -1,0 +1,4 @@
+Storing notes for future use on how things were done.
+
+grayscale link guide by adding code to css file and then changing class on HTML: https://codepen.io/georgeroubie/pen/yaeBmx
+
